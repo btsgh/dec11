@@ -1,8 +1,12 @@
 {
   "pages": [
     {
-      "id": "Page1",
+      "id": "Test1",
       "isDefault": true
+    },
+    {
+      "id": "Test2",
+      "isDefault": false
     }
   ],
   "viewMode": false,
